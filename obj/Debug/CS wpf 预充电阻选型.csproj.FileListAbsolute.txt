@@ -1,0 +1,14 @@
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\CS wpf 预充电阻选型\bin\Debug\CS wpf 预充电阻选型.exe.config
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\CS wpf 预充电阻选型\bin\Debug\CS wpf 预充电阻选型.exe
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\CS wpf 预充电阻选型\bin\Debug\CS wpf 预充电阻选型.pdb
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\CS wpf 预充电阻选型\obj\Debug\CS wpf 预充电阻选型.csprojResolveAssemblyReference.cache
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\CS wpf 预充电阻选型\obj\Debug\MainWindow.g.cs
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\CS wpf 预充电阻选型\obj\Debug\App.g.cs
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\CS wpf 预充电阻选型\obj\Debug\CS wpf 预充电阻选型_MarkupCompile.cache
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\CS wpf 预充电阻选型\obj\Debug\CS wpf 预充电阻选型_MarkupCompile.lref
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\CS wpf 预充电阻选型\obj\Debug\MainWindow.baml
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\CS wpf 预充电阻选型\obj\Debug\CS wpf 预充电阻选型.g.resources
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\CS wpf 预充电阻选型\obj\Debug\CS_wpf_预充电阻选型.Properties.Resources.resources
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\CS wpf 预充电阻选型\obj\Debug\CS wpf 预充电阻选型.csproj.GenerateResource.Cache
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\CS wpf 预充电阻选型\obj\Debug\CS wpf 预充电阻选型.exe
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\CS wpf 预充电阻选型\obj\Debug\CS wpf 预充电阻选型.pdb
