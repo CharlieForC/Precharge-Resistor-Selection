@@ -54,6 +54,7 @@ namespace CS_wpf_预充电阻选型
         {
             try
             {
+                T1 = (float)-System.Math.Log(1 - (float.Parse(textBox1.Text) / 100));//根据2.2
                 RPmax_lab.Content = (float.Parse(textBoxv.Text) * float.Parse(textBoxv.Text)) / float.Parse(R_tb.Text);
                 RImax_lab.Content = float.Parse(textBoxv.Text) / float.Parse(R_tb.Text);
                 RP_lab.Content = (int)(T1 * float.Parse(R_tb.Text) * float.Parse(textBox2.Text) / 1000);
