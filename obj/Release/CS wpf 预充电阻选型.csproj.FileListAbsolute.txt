@@ -12,3 +12,17 @@ D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\CS wpf 预�
 D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\CS wpf 预充电阻选型\obj\Release\CS wpf 预充电阻选型.exe
 D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\CS wpf 预充电阻选型\obj\Release\CS wpf 预充电阻选型.pdb
 D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\CS wpf 预充电阻选型\obj\Release\CS wpf 预充电阻选型.csprojResolveAssemblyReference.cache
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\Precharge-Resistor-Selection\bin\Release\CS wpf 预充电阻选型.exe.config
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\Precharge-Resistor-Selection\obj\Release\CS wpf 预充电阻选型.exe
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\Precharge-Resistor-Selection\obj\Release\CS wpf 预充电阻选型.pdb
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\Precharge-Resistor-Selection\bin\Release\CS wpf 预充电阻选型.exe
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\Precharge-Resistor-Selection\bin\Release\CS wpf 预充电阻选型.pdb
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\Precharge-Resistor-Selection\obj\Release\CS wpf 预充电阻选型.csprojResolveAssemblyReference.cache
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\Precharge-Resistor-Selection\obj\Release\MainWindow.g.cs
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\Precharge-Resistor-Selection\obj\Release\App.g.cs
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\Precharge-Resistor-Selection\obj\Release\CS wpf 预充电阻选型_MarkupCompile.cache
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\Precharge-Resistor-Selection\obj\Release\CS wpf 预充电阻选型_MarkupCompile.lref
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\Precharge-Resistor-Selection\obj\Release\MainWindow.baml
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\Precharge-Resistor-Selection\obj\Release\CS wpf 预充电阻选型.g.resources
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\Precharge-Resistor-Selection\obj\Release\CS_wpf_预充电阻选型.Properties.Resources.resources
+D:\Users\ep\Documents\Visual Studio 2015\Projects\预充电阻计算\Precharge-Resistor-Selection\obj\Release\CS wpf 预充电阻选型.csproj.GenerateResource.Cache

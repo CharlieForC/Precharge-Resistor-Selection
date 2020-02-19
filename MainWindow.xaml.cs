@@ -67,7 +67,10 @@ namespace CS_wpf_预充电阻选型
 
         private void button_Click_1(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("本程序在算法引用自：陈培哲,王薪强.动力电池预充电电阻选型设计[J].客车技术与研究,2018,40(1):30-33.");
+            MessageBox.Show(@"声明：本软件计算结果仅供参考，不能作为判断依据，因使用本软件出现任何问题与开发者无关
+本程序在算法引用自：陈培哲,王薪强.动力电池预充电电阻选型设计[J].客车技术与研究,2018,40(1):30-33.
+开源地址：https://github.com/CharlieForC/Precharge-Resistor-Selection",
+               "关于" );
 
         }
     }
