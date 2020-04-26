@@ -38,7 +38,9 @@ namespace CS_wpf_预充电阻选型
                 R_lab.Content = i;
                 //RP_lab.Content = T1;
                 RW_lab.Content = ((float.Parse(textBoxv.Text) * float.Parse(textBoxv.Text)) * (float.Parse(textBox2.Text) / 1000000)) / 2;
-                teR = (int)(i / 10) * 10;
+                //teR = (int)(i / 10) * 10;
+                teR = (int)i ;
+
                 R_tb.Text = Convert.ToString(teR);
                 RPmax_lab.Content = (float.Parse(textBoxv.Text) * float.Parse(textBoxv.Text)) / float.Parse(R_tb.Text);
                 RImax_lab.Content = float.Parse(textBoxv.Text) / float.Parse(R_tb.Text);
